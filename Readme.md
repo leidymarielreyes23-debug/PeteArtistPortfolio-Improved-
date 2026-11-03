@@ -94,12 +94,8 @@ GitHub Profile: https://github.com/leidymarielreyes23-debug
 
 ------------------------------------------
 
-📄 License
-This project is available under the MIT License.
-Before submitting, remember these 4 things:
-Replace all screenshot placeholders with your actual screenshots.
-Add your new GitHub repository and live website links.
-Include your actual GitHub commit history.
-Add Replit screenshots showing the changes you made.
-One important note: The assignment asks for a redesign mock-up. If you don't have one yet, don't use a screenshot of the finished website as a mock-up. They are two different things.
-This version is shorter but still addresses all the assignment requirements.
+🌐 Live Demo
+Web validator 
+https://validator.w3.org/nu/#textarea
+![alt text](<Screen Shot 2026-11-02 at 9.05.48 PM-1.png>)
+
