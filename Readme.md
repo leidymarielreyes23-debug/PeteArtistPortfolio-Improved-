@@ -107,3 +107,9 @@ Code Index.html
 
 📄 License
 This project is available under the MIT License.
+
+Redesigned Website link 
+https://leidymarielreyes23-debug.github.io/PeteArtistPortfolio-Improved-/
+Redesigned Repository link 
+https://github.com/leidymarielreyes23-debug/PeteArtistPortfolio-Improved-.git
+
