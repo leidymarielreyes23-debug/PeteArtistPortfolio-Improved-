@@ -6,22 +6,23 @@ The goal was to improve the website's visual appearance, layout, alignment, and 
 ------------------------------------------
 
 🌐 Project Links
-Live Website: http://127.0.0.1:5500/
-GitHub Repository: [Add improved repository URL]
-Original Portfolio: 
-Original Repository: View Original Repository
+Live Website: https://leidymarielreyes23-debug.github.io/PeteArtistPortfolio-Improved-/
+GitHubRepository:https://github.com/leidymarielreyes23-debug/PeteArtistPortfolio-Improved-.git
+Original Portfolio:https://leidymarielreyes23-debug.github.io/PeteArtistPortfolio/
+Original Repository: https://github.com/leidymarielreyes23-debug/PeteArtistPortfolio.git
 
 ------------------------------------------
 
 🎨 Original Layout and Redesigned Layout
 The original website had a simple structure with an About section, Portfolio gallery, and Contact section.
 The redesign focused on improving alignment, spacing, and visual organization.
+
 Original Layout:
-[Add original portfolio screenshot]
+![alt text](images/leidymarielreyes23-debug.github.io_PeteArtistPortfolio_.png)
 Redesigned Layout:
-[Add improved portfolio screenshot]
+![alt text](images/leidymarielreyes23-debug.github.io_PeteArtistPortfolio-Improved-_.png)
 Redesign Mock-up:
-[Add redesign mock-up]
+![alt text](images/Moodboard-Peteartistportfolio-Improved.png)
 
 ------------------------------------------
 
@@ -63,12 +64,6 @@ I reviewed, tested, and implemented the final code changes myself.
 
 ------------------------------------------
 
-📸 GitHub Commit History and Replit Evidence
-GitHub Commit History: [Add repository commits URL]
-Replit Screenshots: [Add screenshots showing the header, About section, and Portfolio improvements]
-
-------------------------------------------
-
 📚 What I Learned
 Using Flexbox for horizontal layouts.
 Understanding parent and child containers.
@@ -95,7 +90,14 @@ GitHub Profile: https://github.com/leidymarielreyes23-debug
 ------------------------------------------
 
 🌐 Live Demo
-Web validator 
+Web Validator:
 https://validator.w3.org/nu/#textarea
-![alt text](<Screen Shot 2026-11-02 at 9.05.48 PM-1.png>)
+![alt text](<images/Screen Shot 2026-11-07 at 2.48.30 PM.png>)
 
+Code Index.html
+![alt text](<images/Screen Shot 2026-11-07 at 12.06.19 PM.png>)
+
+------------------------------------------
+
+📄 License
+This project is available under the MIT License.
