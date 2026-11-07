@@ -18,11 +18,13 @@ The original website had a simple structure with an About section, Portfolio gal
 The redesign focused on improving alignment, spacing, and visual organization.
 
 Original Layout:
-![alt text](images/leidymarielreyes23-debug.github.io_PeteArtistPortfolio_.png)
+<img width="2220" height="5538" alt="leidymarielreyes23-debug github io_PeteArtistPortfolio_" src="https://github.com/user-attachments/assets/8d9e3579-e91f-47f5-8503-6541ee3e8a62" />
+
 Redesigned Layout:
-![alt text](images/leidymarielreyes23-debug.github.io_PeteArtistPortfolio-Improved-_.png)
+<img width="1512" height="3918" alt="leidymarielreyes23-debug github io_PeteArtistPortfolio-Improved-_" src="https://github.com/user-attachments/assets/c89b66bb-767c-4c12-9359-5025bc05c668" />
+
 Redesign Mock-up:
-![alt text](images/Moodboard-Peteartistportfolio-Improved.png)
+<img width="586" height="743" alt="Screen Shot Moodboard-Peteartistportfolio-Improved 2026-11-07 at 2 59 14 PM" src="https://github.com/user-attachments/assets/2a3a6197-abe0-4a49-bb65-c4b788e8cc5d" />
 
 ------------------------------------------
 
@@ -92,10 +94,11 @@ GitHub Profile: https://github.com/leidymarielreyes23-debug
 🌐 Live Demo
 Web Validator:
 https://validator.w3.org/nu/#textarea
-![alt text](<images/Screen Shot 2026-11-07 at 2.48.30 PM.png>)
+<img width="1437" height="738" alt="Screen Shot 2026-11-07 at 2 48 30 PM" src="https://github.com/user-attachments/assets/fbf06802-62bd-4cce-8b2d-d1c005437ab3" />
+
 
 Code Index.html
-![alt text](<images/Screen Shot 2026-11-07 at 12.06.19 PM.png>)
+<img width="1439" height="824" alt="Screen Shot 2026-11-07 at 12 06 19 PM" src="https://github.com/user-attachments/assets/5861bb96-0e58-4c7f-bb5e-80a149bc0ebc" />
 
 ------------------------------------------
 
